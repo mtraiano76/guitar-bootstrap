@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+
+  }
+
+  body{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    width: 100%;
+    height: 100vh;
+    background-image: url(image/registro.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+  }
+
+  h1{
+    font-size: 125px;
+    margin-left: 5px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+
+  }
+  div.registro-container{
+    width: 40%;
+    align-items: center;
+    margin-top:100px;
+    margin-left: 500px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.463);
+
+  }
+  .row{
+    padding: 10px;
+  }
+
+  label.form-label {
+    color: black;
+    font-weight:900;
+
+
+  }
+  div#validationServerUsernameFeedback.invalid-feedback{
+    font-weight:900;
+  }
+
+  div#validationServer03Feedback.invalid-feedback{
+    font-weight:900;
+  }
+  div#validationServer04Feedback.invalid-feedback{
+    font-weight:900;
+  }
+  div#validationServer05Feedback.invalid-feedback{
+    font-weight:900;
+  }
+  label.form-check-label{
+    font-weight:900;
+  }
+  div#invalidCheck3Feedback.invalid-feedback{
+    font-weight:900;
+  }
