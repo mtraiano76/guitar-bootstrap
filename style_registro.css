@@ -27,10 +27,10 @@
 
   }
   div.registro-container{
-    width: 40%;
+    width: 65%;
     align-items: center;
     margin-top:100px;
-    margin-left: 500px;
+    /*margin-left: 500px;*/
     border-radius: 5px;
     background-color: rgba(255, 255, 255, 0.463);
 
